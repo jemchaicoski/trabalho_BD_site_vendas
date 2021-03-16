@@ -47,7 +47,7 @@ label, input, #observacao{
     background-color: rgb(252, 234, 234);
 }
 
-.login{
+#login{
     margin-left: 76%;
 }
 
@@ -95,6 +95,10 @@ label, input, #observacao{
     display: inline-block;
 }
 
+#labelDivConsulta{
+    display: inline-block;
+    margin-left: 25%;
+}
 table{
     margin-top: 15px;
     border: none;
